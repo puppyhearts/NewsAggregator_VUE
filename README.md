@@ -1,4 +1,4 @@
-#Aggregating and Classifying News from all over the internet
+# Aggregating and Classifying News from all over the internet
 
 Deployed [live on Vercel](https://newscatcher-browser.vercel.app/)!
 
