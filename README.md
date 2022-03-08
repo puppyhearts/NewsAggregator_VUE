@@ -1,18 +1,14 @@
-# news-browser
+#Aggregating and Classifying News from all over the internet
 
-A browser for the [Newscatcher Free News API](https://free-docs.newscatcherapi.com/). Deployed [live on Vercel](https://newscatcher-browser.vercel.app/)!
+Deployed [live on Vercel](https://newscatcher-browser.vercel.app/)!
+
+# Steps to Launch locally
+
+Using the [Newscatcher Free News API](https://free-docs.newscatcherapi.com/). - Sign up for account etc.
 
 ## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
 npm run build
+npm run serve
 ```
