@@ -1,6 +1,6 @@
 # Aggregating and Classifying News from all over the internet
 
-Deployed [live on Vercel](https://newscatcher-browser.vercel.app/)!
+Access it live on [Vercel](https://bj-searchbox.vercel.app/)!
 
 # Steps to Launch locally
 
