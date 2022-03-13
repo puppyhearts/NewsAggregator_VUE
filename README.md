@@ -1,14 +1,18 @@
-# Aggregating and Classifying News from all over the internet
+# news-browser
 
-Access it live on [Vercel](https://bj-searchbox.vercel.app/)!
-
-# Steps to Launch locally
-
-Using the [Newscatcher Free News API](https://free-docs.newscatcherapi.com/). - Sign up for account etc.
+A browser for the [Newscatcher Free News API](https://free-docs.newscatcherapi.com/). Deployed [live on Vercel](https://newscatcher-browser.vercel.app/)!
 
 ## Project setup
 ```
 npm install
-npm run build
+```
+
+### Compiles and hot-reloads for development
+```
 npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
 ```
